@@ -5,6 +5,9 @@
 Test your typing skills in style!   
 Type the displayed sentence as fast as you can in **30 seconds** and see your **WPM (Words Per Minute)**, **accuracy**, and number of **correct words**.
 
+## LIVE
+https://typing-speed-tester-gamma.vercel.app/
+
 ##  Features
 -  Measures **speed**, **accuracy**, and **correct words**
 -  Beautiful color palette & animations
